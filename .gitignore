@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+bin/
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# VS Code / Antigravity
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and dumps
+*.log
+*.hprof
