@@ -1,6 +1,6 @@
 # Redis in Java, From Scratch: Versioned Implementation Plan
 
-**Goal:** a plain, correct, fast Redis-compatible server in Java, built to learn the core concepts properly. The AI-caching twist comes *after* a stable base exists.
+**Goal:** a plain, correct, fast  Redis-compatible server in Java, built to learn the core concepts properly. The AI-caching twist comes *after* a stable base exists.
 **Previous attempt:** [krednie/tinyredis](https://github.com/krednie/tinyredis) (C++17).
 **Budget:** 4-5 h/day: ~2 h coding + 2-3 h learning.
 
