@@ -4,7 +4,7 @@ All notable changes to the JRedis project across each version milestone.
 
 ## [v1.0] - Stable Base
 ### Added
-- Complete CLI entrypoint `App` supporting `--port`, `--bind`, `--maxmemory`, `--maxmemory-policy`, `--appendonly`, `--dir`.
+- Complete CLI entrypoint `App`  supporting `--port`, `--bind`, `--maxmemory`, `--maxmemory-policy`, `--appendonly`, `--dir`.
 - Comprehensive architecture and extension documentation in `README.md`.
 - End-to-end integration test suites across all data types, persistence, and networking.
 - Frozen extension points: `Command`, `EvictionPolicy`, `ByteKey`, `Value` per-entry metadata.
