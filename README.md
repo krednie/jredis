@@ -4,7 +4,7 @@
 [![Java](https://img.shields.io/badge/java-25-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 
-A fast, plain, Redis-compatible in-memory database built from scratch in pure Java (Java 25) with raw `java.nio`.
+A fast, plain,  Redis-compatible in-memory database built from scratch in pure Java (Java 25) with raw `java.nio`.
 
 ---
 
